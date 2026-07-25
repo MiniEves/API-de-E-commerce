@@ -12,13 +12,21 @@ API REST de e-commerce desenvolvida com Node.js e Express, organizada de forma m
 
 🧱 Estrutura
 
-ecommerce-api/
+ecommerce-
+api/
+
 │
+
 ├── routes/
+
 ├── controllers/
+
 ├── middlewares/
+
 ├── utils/
+
 ├── server.js
+
 └── package.json
 
 ⚙️ Instalação
