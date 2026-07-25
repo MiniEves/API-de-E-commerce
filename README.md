@@ -3,12 +3,19 @@
 API REST de e-commerce desenvolvida com Node.js e Express, organizada de forma modular e pronta para evoluir para um projeto completo.
 
 ✨ Funcionalidades
+
 👤 Cadastro e listagem de usuários
+
 🛍️ Listagem e detalhes de produtos
+
 🛒 Gerenciamento de carrinho
+
 📦 Criação e listagem de pedidos
+
 ⭐ Sistema de avaliações
+
 🔐 Middleware de autenticação (simulado)
+
 
 🧱 Estrutura
 
