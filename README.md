@@ -11,6 +11,7 @@ API REST de e-commerce desenvolvida com Node.js e Express, organizada de forma m
 🔐 Middleware de autenticação (simulado)
 
 🧱 Estrutura
+
 ecommerce-api/
 │
 ├── routes/
