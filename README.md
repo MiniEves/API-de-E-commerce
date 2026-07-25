@@ -21,7 +21,7 @@ ecommerce-api/
 └── package.json
 
 ⚙️ Instalação
-git clone https://github.com/seu-usuario/ecommerce-api.git
+git clone (https://github.com/MiniEves/API-de-E-commerce.git)
 cd ecommerce-api
 npm install
 
